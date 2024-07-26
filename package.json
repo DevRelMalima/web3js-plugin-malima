@@ -1,0 +1,27 @@
+{
+  "name": "web3js-plugin-malima",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Web3.js plugin for enhanced blockchain interactions",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devrelmalima/web3js-plugin-malima.git"
+  },
+  "keywords": [
+    "web3",
+    "blockchain",
+    "ethereum",
+    "dapp"
+  ],
+  "author": "Samaila Anthony Malima",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.4.0"
+  },
+  "devDependencies": {}
+}
